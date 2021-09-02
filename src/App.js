@@ -7,7 +7,7 @@ function App() {
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
                 <p>
-                    updating the docker-compose instance...
+                    This update comes from a feature branch...
                 </p>
                 <a
                     className="App-link"
